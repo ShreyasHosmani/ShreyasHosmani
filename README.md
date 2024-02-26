@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shreyas
 
 <!--
 **ShreyasHosmani/ShreyasHosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shreyas Hosmani</h1>
 <h3 align="center">Flutter | 6+ Years | 20+ Products | 2M+ users globally | CoFounded @ Gathrr | Investor @cartist-BLR/HUBLI, @gladful & @auntie-fung's</h3>
 
 - 🔭 I’m currently working on [Out2Win & Digital Toxicity](https://www.out2win.net)
