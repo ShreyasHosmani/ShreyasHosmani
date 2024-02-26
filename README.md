@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://media.licdn.com/dms/image/C5116AQFDF2s5TEX7_g/profile-displaybackgroundimage-shrink_350_1400/0/1582999410554?e=1714608000&v=beta&t=q7dq1tclWF0ctlfUe8Zbkfv9uGL_0WAd09duQNmiDJI)](https://https://www.linkedin.com/in/shreyas-hosmani/)
+[![MasterHead](https://cdn.dribbble.com/users/91550/screenshots/18508227/media/d50e2634c88dd828ce95a2c06af612a5.png?resize=1600x1200&vertical=center)
 <h1 align="center">Hi there 👋 I'm Shreyas</h1>
 <h3 align="center">Flutter | 6+ Years | 20+ Products | 2M+ users globally | CoFounded @ Gathrr | Investor @cartist-BLR/HUBLI, @gladful & @auntie-fung's</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1967053/screenshots/4621615/media/26b5779a35fc4478f0b8734e50013ddf.png">
