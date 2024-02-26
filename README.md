@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://https://www.linkedin.com/in/shreyas-hosmani/)
 <h1 align="center">Hi there 👋 I'm Shreyas</h1>
 <h3 align="center">Flutter | 6+ Years | 20+ Products | 2M+ users globally | CoFounded @ Gathrr | Investor @cartist-BLR/HUBLI, @gladful & @auntie-fung's</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on [Out2Win & Digital Toxicity](https://www.out2win.net)
 
