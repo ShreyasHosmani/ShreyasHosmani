@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://https://www.linkedin.com/in/shreyas-hosmani/)
+[![MasterHead](https://media.licdn.com/dms/image/C5116AQFDF2s5TEX7_g/profile-displaybackgroundimage-shrink_350_1400/0/1582999410554?e=1714608000&v=beta&t=q7dq1tclWF0ctlfUe8Zbkfv9uGL_0WAd09duQNmiDJI)](https://https://www.linkedin.com/in/shreyas-hosmani/)
 <h1 align="center">Hi there 👋 I'm Shreyas</h1>
 <h3 align="center">Flutter | 6+ Years | 20+ Products | 2M+ users globally | CoFounded @ Gathrr | Investor @cartist-BLR/HUBLI, @gladful & @auntie-fung's</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1967053/screenshots/4621615/media/26b5779a35fc4478f0b8734e50013ddf.png](https://drive.google.com/file/d/156gB0epCZMx6HYu_Y0Ef5c6CUnkl2jgS/view?usp=sharing)">
 
 - 🔭 I’m currently working on [Out2Win & Digital Toxicity](https://www.out2win.net)
 
