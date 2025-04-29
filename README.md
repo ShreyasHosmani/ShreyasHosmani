@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">Flutter | 6+ Years | 20+ Products | 2M+ users globally | CoFounded @ Gathrr | Investor @cartist-BLR/HUBLI, @gladful & @auntie-fung's</h3>
 
 
-- 🔭 I’m currently working on [Out2Win & Digital Toxicity](https://www.out2win.net)
+- 🔭 I’m currently working on [Out2Win & First Responder Drones for US Government @ Flyhound](https://www.out2win.net),(https://www.flyhound.com/)
 
-- 🌱 I’m currently learning **To groove on Bollywood music**
+- 🌱 I’m currently learning **To brew my own Beer & ace Golf**
 
-- 🤝 I've invested in these distruptive startups **Cartist, Gladful, AuntieFung's**
+- 🤝 I've invested in these distruptive startups **Cartist, Gladful, AuntieFung's, WaterWise, Gathrr & RadarSoft**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3SREP3C](https://bit.ly/3SREP3C)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3SREP3C](https://bit.ly/3SREP3C](https://drive.google.com/file/d/1y_AHtkqPcEceiGr9vP3AMKEnqzmDat_7/view?usp=sharing)
 
 - 📝 I regularly write articles on [https://sorrythisoneispersonalsoapplenotes.com](https://sorrythisoneispersonalsoapplenotes.com)
 
