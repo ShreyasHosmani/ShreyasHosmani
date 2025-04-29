@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🤝 I've invested in these distruptive startups **Cartist, Gladful, AuntieFung's, WaterWise, Gathrr & RadarSoft**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3SREP3C](https://bit.ly/3SREP3C](https://drive.google.com/file/d/1y_AHtkqPcEceiGr9vP3AMKEnqzmDat_7/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1y_AHtkqPcEceiGr9vP3AMKEnqzmDat_7/view?usp=sharing]
 
 - 📝 I regularly write articles on [https://sorrythisoneispersonalsoapplenotes.com](https://sorrythisoneispersonalsoapplenotes.com)
 
